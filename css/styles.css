@@ -63,6 +63,7 @@ main ul{
     list-style: square;
 }
 
+/*Style rules for class and id selectors*/
 .link{
     color: #4d3319;
     text-decoration: none;
@@ -91,4 +92,5 @@ footer{
 
 footer a{
     color: #f3e6d8;
+    text-decoration: none;
 }
