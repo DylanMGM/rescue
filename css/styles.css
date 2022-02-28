@@ -32,7 +32,7 @@ img{
 }
 
 /*Style rules for header area*/
-.mobile h1 h3{
+.mobile h1, h3{
     padding: 2%;
     text-align: center;
 }
@@ -110,7 +110,7 @@ main ul{
     margin-left: 10%;
 }
 
-#content{
+#contact{
     text-align: center;
 }
 
@@ -118,10 +118,10 @@ main ul{
     background-color: #2a1f14;
     padding: 2%;
     width: 80%;
-    margin: 0 auto;
+    margin: auto;
 }
 
-.tel-link a{
+.tel-link, a{
     color: #f6eee4;
     text-decoration: none;
     font-weight: bold;
