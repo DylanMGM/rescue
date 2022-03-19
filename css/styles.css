@@ -158,6 +158,7 @@ fieldset legend{
 
 label{
     display: block;
+    padding-top: 2%;
 }
 
 #submit{
