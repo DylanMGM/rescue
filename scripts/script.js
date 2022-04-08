@@ -1,5 +1,5 @@
 /*
-    Name: Dylan GarciaMartinez
+    Student Name: Dylan GarciaMartinez
     File Name: script.js
     Date: 04/07/2022
 */
@@ -30,13 +30,13 @@ function ans1() {
 //Function to display the second answer
 function ans2() {
     heading.style.display = "block";
-    answer.textContent = "You cannot tell if animal has rabies simply by seeing it. A test must be performed to determine if an animal has rabies. Do not approach wildlife that you suspect might be rabid. Contact us to have the animal removed.";
+    answer.textContent = "You cannot tell if an animal has rabies simply by seeing it. A test must be performed to determine if an animal has rabies. Do not approach wildlife that you suspect might be rabid. Contact us to have the animal removed.";
 }
 
 //Function to display the third answer
 function ans3() {
     heading.style.display = "block";
-    answer.textContent = "No. This is a myth. The parents will retrieve the baby bird and place is back in its nest. If the parents do not return, contact us.";
+    answer.textContent = "No. This is a myth. The parents will retrieve the baby bird and place it back in its nest. If the parents do not return, contact us.";
 }
 
 //Function to display the forth answer
